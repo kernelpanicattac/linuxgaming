@@ -40,3 +40,11 @@ Using Protontricks get libraries:
 
 Mods: 
 * D3D11 Renderer Mod
+
+
+# Gothic 1
+# S.T.A.L.K.E.R Anomaly
+# Apex
+# Squad
+# MGS
+# DayZ

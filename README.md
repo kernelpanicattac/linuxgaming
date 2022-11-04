@@ -1,6 +1,6 @@
 # linuxgaming
 
-Gothic 2 
+#Gothic 2 on Linux Steam
 
 Видеоролики
 

@@ -1,5 +1,3 @@
-# linuxgaming
-
 # Gothic 2 on Linux Steam
 
 Видеоролики

@@ -48,3 +48,35 @@ Mods:
 # Squad
 # MGS
 # DayZ
+
+
+
+
+
+
+
+
+
+WINDOWS Games: 
+rust 
+skyrim requiem 
+Chivalry 2
+
+LINUX
+
+NOBARA Linux
+
+After install:
+
+Gnome: 
+Gnome extension:
+Rounded window corners
+Vitals
+Blur my shell
+Just Perfection
+User Themes
+Dash to panel
+
+
+Gnome themes 
+Terminal
